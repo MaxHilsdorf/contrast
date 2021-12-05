@@ -22,6 +22,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:m.hilsdorf1@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/MaxHilsdorf"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/max_hilsdorf"}
+  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/max-hilsdorf-418898185/"}
+  - {title: Medium, icon: medium-m, url: "https://medium.com/@maxhilsdorf"}
+  - {title: Soundcloud, icon: soundcloud, url: "https://soundcloud.com/maxhilsdorf"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
