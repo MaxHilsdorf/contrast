@@ -4,7 +4,7 @@ layout: post
 categories: ["music", "music tagging", "keywords", "nlp", "natural language processing", "cyanite", "data science"]
 ---
 
-![Title Image]("assets/img/cyanite_keyword_cleaning.jpg")
+![Title Image](assets/img/cyanite_keyword_cleaning.jpg)
 
 [Cyanite](https://cyanite.ai/) has expanded their keyword analysis tools and now offers a multitude of unique and innovative AI-driven products. Some of these products, for all of which I was a major contributor, are: \
 __Keyword Cleaning__ \
