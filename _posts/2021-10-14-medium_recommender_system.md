@@ -5,7 +5,7 @@ layout: post
 categories: ["music", "data science", "recommendation systems", "music streaming", "python", "programming"]
 ---
 
-<img src="assets/img/musicrec_v3.JPG", alt="Title Image")>
+![Title Image](musicrec_v3.JPG)
 
 While music genre plays an enormous role in building and displaying social identity, the emotional expression of a song and — even more importantly — its emotional impression on the listener is often underestimated in the domain of music preferences.
 
